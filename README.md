@@ -8,6 +8,12 @@ Photify is a photo repository.
 
 #### [The demo can be viewed on Netlify](https://fall-photify.netlify.app/) 
 
+### Main Features:
+* Users can see all photos
+* User authentication
+* Users can add photos to the repository (secure uploading)
+* Users can delete photos from the repository: users can not delete photos from another user (access control)
+
 ## Getting Started
 - Fork and clone this repo
 - Navigate to photosRepo-backend
@@ -32,12 +38,6 @@ Ruby on Rails & React
 * Cloudinary - a cloud-based image and video management service, is utilized to handle hosting of user generated images
 * Figaro - to secure the configuration of API keys
 * Semantic UI for fast and clean UI
-
-### Main Features:
-* Users can see all photos
-* User authentication
-* Users can add photos to the repository (secure uploading)
-* Users can delete photos from the repository: users can not delete photos from another user (access control)
 
  
 ### Home Page
